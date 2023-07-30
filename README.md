@@ -58,7 +58,8 @@ VSCode/Vagrant/VirtualBox/Postman/SourceTree
 ### [メイクル](https://play.google.com/store/apps/details?id=com.hirotimes.makeru&hl=ja&gl=US)
 Flutter & Firebaseで作成しました。
 
-奥さんとの共同開発で、アプリで使用する素材は全て自作してもらい、素材の雰囲気に合わせたUI・UXを設計し実装しました。
+奥さんと共同開発。
+アプリで使用する素材は全て自作し、素材の雰囲気に合わせたUI・UXを設計し実装。
 
 アプリ説明：
 
